@@ -75,7 +75,7 @@
                 <span>Adam Thomas</span>
             </h1>
             <h2 class="w3-text-red ca-font-large ca-pt-sans">
-                <span>mdbgo-deploy-html</span>
+                <span>laravel-mysql-images</span>
             </h2>
             <p class="w3-text-white ca-font-small ca-pt-sans w3-center">
                 <span><a href="https://github.com/codeadamca/laravel-mysql-images">https://github.com/codeadamca/laravel-mysql-images</a></span>
