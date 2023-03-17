@@ -15,6 +15,10 @@
 
     <style>
 
+        body {
+            background-color: #000;
+        }
+
         main {
             width: 100vw;
             height: 100vh;
@@ -29,6 +33,7 @@
             left: 0;
             top: 0;
             margin: 0;
+            opacity: 0.3;
         }
 
         div {
