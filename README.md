@@ -1,6 +1,6 @@
 # Displaying Images from a Database using Laravel
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A basic sample of integrating images into a MySQL database using Laravel.
